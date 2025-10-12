@@ -2,7 +2,9 @@
 
 A real-time American Sign Language (ASL) recognition system using computer vision and deep learning to translate hand gestures into text.
 
+## 🎬 Demo
 
+Watch the demo video here: [Sign Language Recognition Demo](https://drive.google.com/file/d/1YWEmkDYSQKiGNSOkuP91ABNiCmToV_mX/view?usp=share_link)
 
 ## ✨ Features
 
