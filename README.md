@@ -2,10 +2,6 @@
 
 A real-time American Sign Language (ASL) recognition system using computer vision and deep learning to translate hand gestures into text.
 
-## 🎬 Demo
-
-Watch the demo video here: [Sign Language Recognition Demo](https://drive.google.com/file/d/1YWEmkDYSQKiGNSOkuP91ABNiCmToV_mX/view?usp=share_link)
-
 ## ✨ Features
 
 - **Real-time Recognition**: Live ASL gesture recognition through webcam
@@ -136,8 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Sudipta Sarkar**
-- GitHub: [@sudiptasarkar011](https://github.com/sudiptasarkar011)
-- Email: sudiptasarkar.1108@gmail.com
+- GitHub: [@sudiptasarkar011](https://github.com/kartavya4874)
+- Email: kartavyabaluja453@gmail.com
 
 ---
 
